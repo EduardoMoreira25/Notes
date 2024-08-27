@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4737208a073f4ffa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e5245383aa2fa884",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -173,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d9350ba07046d3d",
+  "active": "c3192370003020de",
   "lastOpenFiles": [
+    "Coding/Python",
+    "Coding",
     "Welcome.md",
     "New notess.md"
   ]
